@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca727a97-8da1-4195-b68d-9551c87df3db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flag Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/background2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/countryData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Afghanistan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Albania.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Algeria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/American Samoa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Andorra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Angola.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Antigua and Barbuda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Argentina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Armenia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Aruba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Australia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Austria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Azerbaijan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Bahamas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Bahrain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Bangladesh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Barbados.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Belarus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Belgium.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Belize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Benin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Bermuda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Bhutan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Bolivia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Bosnia and Herzegovina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Botswana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Brazil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/British Virgin Islands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Brunei Darussalam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Bulgaria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Burkina Faso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Burundi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Cabo Verde.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Cambodia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Cameroon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Canada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Cayman Islands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Central African Republic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Chad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Chile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/China.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Colombia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Comoros.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Congo Dem. Rep..png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Congo Rep..png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Costa Rica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Cote d'Ivoire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Croatia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Cuba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Curacao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Cyprus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Czech Republic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Denmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Djibouti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Dominica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Dominican Republic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Ecuador.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Egypt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/El Salvador.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Equatorial Guinea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Eritrea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Estonia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Eswatini.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Ethiopia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Faroe Islands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Fiji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Finland.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/France.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/French Polynesia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Gabon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Georgia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Germany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Ghana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Gibraltar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Greece.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Greenland.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Grenada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Guam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Guatemala.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Guinea-Bissau.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Guinea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Guyana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Haiti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Honduras.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Hong Kong SAR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Hungary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Iceland.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/India.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Indonesia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Iran.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Iraq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Ireland.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Isle of Man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Israel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Italy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Jamaica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Japan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Jordan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Kazakhstan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Kenya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Kiribati.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Kosovo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Kuwait.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Kyrgyz Republic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Lao PDR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Latvia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Lebanon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Lesotho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Liberia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Libya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Liechtenstein.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Lithuania.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Luxembourg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Macao SAR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Madagascar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Malawi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Malaysia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Maldives.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Mali.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Malta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Marshall Islands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Mauritania.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Mauritius.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Mexico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Micronesia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Moldova.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Monaco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Mongolia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Montenegro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Morocco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Mozambique.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Myanmar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Nauru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Nepal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Netherlands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/New Caledonia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/New Zealand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Nicaragua.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Niger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Nigeria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Nimibia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/North Korea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/North Macedonia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Northern Mariana Islands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Norway.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Oman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Pakistan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Palau.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Panama.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Papua New Guinea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Paraguay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Peru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Philippines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Poland.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Portugal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Puerto Rico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Qatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Romania.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Russian Federation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Rwanda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/San Marino.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Sao Tome and Principe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Saudi Arabia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Senegal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Serbia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Seychelles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Sierra Leone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Singapore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Sint Maarten.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Slovak Republic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Slovenia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Solomon Islands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Somalia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/South Africa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/South Korea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/South Sudan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Spain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Sri Lanka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/St. Kitts and Nevis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/St. Lucia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/St. Vincent and the Grenadines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Sudan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Suriname.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Sweden.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Switzerland.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Syrian Arab Republic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Tajikistan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Tanzania.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Thailand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/The Gambia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Timor-Leste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Togo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Tonga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Trinidad and Tobago.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Tunisia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Turkey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Turkmenistan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Turks and Caicos Islands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Tuvalu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Uganda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Ukraine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/United Arab Emirates.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/United Kingdom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/United States.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Uruguay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Uzbekistan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Vanuatu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Venezuela.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Vietnam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Virgin Islands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/West Bank and Gaza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Yemen Rep..png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Zambia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flags/Zimbabwe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/gameIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DownloadImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainPanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MCxa6AklRddD933Fg4S1EnD5rR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aren\IdeaProjects\Flag Quiz\resources\flags" />
+      <recent name="C:\Users\Aren\IdeaProjects\Flag Quiz\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Flag Quiz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca727a97-8da1-4195-b68d-9551c87df3db" name="Changes" comment="" />
+      <created>1677285431985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677285431985</updated>
+    </task>
+    <servers />
+  </component>
+</project>

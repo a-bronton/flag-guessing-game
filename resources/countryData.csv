@@ -1,0 +1,216 @@
+[ID],[NAME],[REGION],[FLAG]
+1,Afghanistan,South Asia,https://data.un.org/common/flags/afg_flag.png
+2,Albania,Europe and Central Asia,https://data.un.org/common/flags/alb_flag.png
+3,Algeria,Middle East and North Africa,https://data.un.org/common/flags/dza_flag.png
+4,American Samoa,East Asia and Pacific,https://data.un.org/common/flags/asm_flag.png
+5,Andorra,Europe and Central Asia,https://data.un.org/common/flags/and_flag.png
+6,Angola,Sub-Saharan Africa,https://data.un.org/common/flags/ago_flag.png
+7,Antigua and Barbuda,Latin America and Caribbean,https://data.un.org/common/flags/atg_flag.png
+8,Argentina,Latin America and Caribbean,https://data.un.org/common/flags/arg_flag.png
+9,Armenia,Europe and Central Asia,https://data.un.org/common/flags/arm_flag.png
+10,Aruba,Latin America and Caribbean,https://data.un.org/common/flags/abw_flag.png
+11,Australia,East Asia and Pacific,https://data.un.org/common/flags/aus_flag.png
+12,Austria,Europe and Central Asia,https://data.un.org/common/flags/aut_flag.png
+13,Azerbaijan,Europe and Central Asia,https://data.un.org/common/flags/aze_flag.png
+14,Bahamas,Latin America and Caribbean,https://data.un.org/common/flags/bhs_flag.png
+15,Bahrain,Middle East and North Africa,https://data.un.org/common/flags/bhr_flag.png
+16,Bangladesh,South Asia,https://data.un.org/common/flags/bgd_flag.png
+17,Barbados,Latin America and Caribbean,https://data.un.org/common/flags/brb_flag.png
+18,Belarus,Europe and Central Asia,https://data.un.org/common/flags/blr_flag.png
+19,Belgium,Europe and Central Asia,https://data.un.org/common/flags/bel_flag.png
+20,Belize,Latin America and Caribbean,https://data.un.org/common/flags/blz_flag.png
+21,Benin,Sub-Saharan Africa,https://data.un.org/common/flags/ben_flag.png
+22,Bermuda,North America,https://data.un.org/common/flags/bmu_flag.png
+23,Bhutan,South Asia,https://data.un.org/common/flags/btn_flag.png
+24,Bolivia,Latin America and Caribbean,https://data.un.org/common/flags/bol_flag.png
+25,Bosnia and Herzegovina,Europe and Central Asia,https://data.un.org/common/flags/bih_flag.png
+26,Botswana,Sub-Saharan Africa,https://data.un.org/common/flags/bwa_flag.png
+27,Brazil,Latin America and Caribbean,https://data.un.org/common/flags/bra_flag.png
+28,British Virgin Islands,Latin America and Caribbean,https://data.un.org/common/flags/vgb_flag.png
+29,Brunei Darussalam,East Asia and Pacific,https://data.un.org/common/flags/brn_flag.png
+30,Bulgaria,Europe and Central Asia,https://data.un.org/common/flags/bgr_flag.png
+31,Burkina Faso,Sub-Saharan Africa,https://data.un.org/common/flags/bfa_flag.png
+32,Burundi,Sub-Saharan Africa,https://data.un.org/common/flags/bdi_flag.png
+33,Cabo Verde,Sub-Saharan Africa,https://data.un.org/common/flags/cpv_flag.png
+34,Cambodia,East Asia and Pacific,https://data.un.org/common/flags/khm_flag.png
+35,Cameroon,Sub-Saharan Africa,https://data.un.org/common/flags/cmr_flag.png
+36,Canada,North America,https://data.un.org/common/flags/can_flag.png
+37,Cayman Islands,Latin America and Caribbean,https://data.un.org/common/flags/cym_flag.png
+38,Central African Republic,Sub-Saharan Africa,https://data.un.org/common/flags/caf_flag.png
+39,Chad,Sub-Saharan Africa,https://data.un.org/common/flags/tcd_flag.png
+40,Chile,Latin America and Caribbean,https://data.un.org/common/flags/chl_flag.png
+41,China,East Asia and Pacific,https://data.un.org/common/flags/chn_flag.png
+42,Colombia,Latin America and Caribbean,https://data.un.org/common/flags/col_flag.png
+43,Comoros,Sub-Saharan Africa,https://data.un.org/common/flags/com_flag.png
+44,Congo Dem. Rep.,Sub-Saharan Africa,https://data.un.org/common/flags/cod_flag.png
+45,Congo Rep.,Sub-Saharan Africa,https://data.un.org/common/flags/cog_flag.png
+46,Costa Rica,Latin America and Caribbean,https://data.un.org/common/flags/cri_flag.png
+47,Cote d'Ivoire,Sub-Saharan Africa,https://data.un.org/common/flags/civ_flag.png
+48,Croatia,Europe and Central Asia,https://data.un.org/common/flags/hrv_flag.png
+49,Cuba,Latin America and Caribbean,https://data.un.org/common/flags/cub_flag.png
+50,Curacao,Latin America and Caribbean,https://data.un.org/common/flags/cuw_flag.png
+51,Cyprus,Europe and Central Asia,https://data.un.org/common/flags/cyp_flag.png
+52,Czech Republic,Europe and Central Asia,https://data.un.org/common/flags/cze_flag.png
+53,Denmark,Europe and Central Asia,https://data.un.org/common/flags/dnk_flag.png
+54,Djibouti,Middle East and North Africa,https://data.un.org/common/flags/dji_flag.png
+55,Dominica,Latin America and Caribbean,https://data.un.org/common/flags/dma_flag.png
+56,Dominican Republic,Latin America and Caribbean,https://data.un.org/common/flags/dom_flag.png
+57,Ecuador,Latin America and Caribbean,https://data.un.org/common/flags/ecu_flag.png
+58,Egypt,Middle East and North Africa,https://data.un.org/common/flags/egy_flag.png
+59,El Salvador,Latin America and Caribbean,https://data.un.org/common/flags/slv_flag.png
+60,Equatorial Guinea,Sub-Saharan Africa,https://data.un.org/common/flags/gnq_flag.png
+61,Eritrea,Sub-Saharan Africa,https://data.un.org/common/flags/eri_flag.png
+62,Estonia,Europe and Central Asia,https://data.un.org/common/flags/est_flag.png
+63,Eswatini,Sub-Saharan Africa,https://data.un.org/common/flags/swz_flag.png
+64,Ethiopia,Sub-Saharan Africa,https://data.un.org/common/flags/eth_flag.png
+65,Faroe Islands,Europe and Central Asia,https://data.un.org/common/flags/fro_flag.png
+66,Fiji,East Asia and Pacific,https://data.un.org/common/flags/fji_flag.png
+67,Finland,Europe and Central Asia,https://data.un.org/common/flags/fin_flag.png
+68,France,Europe and Central Asia,https://data.un.org/common/flags/fra_flag.png
+69,French Polynesia,East Asia and Pacific,https://data.un.org/common/flags/pyf_flag.png
+70,Gabon,Sub-Saharan Africa,https://data.un.org/common/flags/gab_flag.png
+71,The Gambia,Sub-Saharan Africa,https://data.un.org/common/flags/gmb_flag.png
+72,Georgia,Europe and Central Asia,https://data.un.org/common/flags/geo_flag.png
+73,Germany,Europe and Central Asia,https://data.un.org/common/flags/deu_flag.png
+74,Ghana,Sub-Saharan Africa,https://data.un.org/common/flags/gha_flag.png
+75,Gibraltar,Europe and Central Asia,https://data.un.org/common/flags/gib_flag.png
+76,Greece,Europe and Central Asia,https://data.un.org/common/flags/grc_flag.png
+77,Greenland,Europe and Central Asia,https://data.un.org/common/flags/grl_flag.png
+78,Grenada,Latin America and Caribbean,https://data.un.org/common/flags/grd_flag.png
+79,Guam,East Asia and Pacific,https://data.un.org/common/flags/gum_flag.png
+80,Guatemala,Latin America and Caribbean,https://data.un.org/common/flags/gtm_flag.png
+81,Guinea,Sub-Saharan Africa,https://data.un.org/common/flags/gin_flag.png
+82,Guinea-Bissau,Sub-Saharan Africa,https://data.un.org/common/flags/gnb_flag.png
+83,Guyana,Latin America and Caribbean,https://data.un.org/common/flags/guy_flag.png
+84,Haiti,Latin America and Caribbean,https://data.un.org/common/flags/hti_flag.png
+85,Honduras,Latin America and Caribbean,https://data.un.org/common/flags/hnd_flag.png
+86,Hong Kong SAR,East Asia and Pacific,https://data.un.org/common/flags/hkg_flag.png
+87,Hungary,Europe and Central Asia,https://data.un.org/common/flags/hun_flag.png
+88,Iceland,Europe and Central Asia,https://data.un.org/common/flags/isl_flag.png
+89,India,South Asia,https://data.un.org/common/flags/ind_flag.png
+90,Indonesia,East Asia and Pacific,https://data.un.org/common/flags/idn_flag.png
+91,Iran,Middle East and North Africa,https://data.un.org/common/flags/irn_flag.png
+92,Iraq,Middle East and North Africa,https://data.un.org/common/flags/irq_flag.png
+93,Ireland,Europe and Central Asia,https://data.un.org/common/flags/irl_flag.png
+94,Isle of Man,Europe and Central Asia,https://data.un.org/common/flags/imn_flag.png
+95,Israel,Middle East and North Africa,https://data.un.org/common/flags/isr_flag.png
+96,Italy,Europe and Central Asia,https://data.un.org/common/flags/ita_flag.png
+97,Jamaica,Latin America and Caribbean,https://data.un.org/common/flags/jam_flag.png
+98,Japan,East Asia and Pacific,https://data.un.org/common/flags/jpn_flag.png
+99,Jordan,Middle East and North Africa,https://data.un.org/common/flags/jor_flag.png
+100,Kazakhstan,Europe and Central Asia,https://data.un.org/common/flags/kaz_flag.png
+101,Kenya,Sub-Saharan Africa,https://data.un.org/common/flags/ken_flag.png
+102,Kiribati,East Asia and Pacific,https://data.un.org/common/flags/kir_flag.png
+103,North Korea,East Asia and Pacific,https://data.un.org/common/flags/prk_flag.png
+104,South Korea,East Asia and Pacific,https://data.un.org/common/flags/kor_flag.png
+105,Kuwait,Middle East and North Africa,https://data.un.org/common/flags/kwt_flag.png
+106,Kyrgyz Republic,Europe and Central Asia,https://data.un.org/common/flags/kgz_flag.png
+107,Lao PDR,East Asia and Pacific,https://data.un.org/common/flags/lao_flag.png
+108,Latvia,Europe and Central Asia,https://data.un.org/common/flags/lva_flag.png
+109,Lebanon,Middle East and North Africa,https://data.un.org/common/flags/lbn_flag.png
+110,Lesotho,Sub-Saharan Africa,https://data.un.org/common/flags/lso_flag.png
+111,Liberia,Sub-Saharan Africa,https://data.un.org/common/flags/lbr_flag.png
+112,Libya,Middle East and North Africa,https://data.un.org/common/flags/lby_flag.png
+113,Liechtenstein,Europe and Central Asia,https://data.un.org/common/flags/lie_flag.png
+114,Lithuania,Europe and Central Asia,https://data.un.org/common/flags/ltu_flag.png
+115,Luxembourg,Europe and Central Asia,https://data.un.org/common/flags/lux_flag.png
+116,Macao SAR,East Asia and Pacific,https://data.un.org/common/flags/mac_flag.png
+117,Madagascar,Sub-Saharan Africa,https://data.un.org/common/flags/mdg_flag.png
+118,Malawi,Sub-Saharan Africa,https://data.un.org/common/flags/mwi_flag.png
+119,Malaysia,East Asia and Pacific,https://data.un.org/common/flags/mys_flag.png
+120,Maldives,South Asia,https://data.un.org/common/flags/mdv_flag.png
+121,Mali,Sub-Saharan Africa,https://data.un.org/common/flags/mli_flag.png
+122,Malta,Middle East and North Africa,https://data.un.org/common/flags/mlt_flag.png
+123,Marshall Islands,East Asia and Pacific,https://data.un.org/common/flags/mhl_flag.png
+124,Mauritania,Sub-Saharan Africa,https://data.un.org/common/flags/mrt_flag.png
+125,Mauritius,Sub-Saharan Africa,https://data.un.org/common/flags/mus_flag.png
+126,Mexico,Latin America and Caribbean,https://data.un.org/common/flags/mex_flag.png
+127,Micronesia,East Asia and Pacific,https://data.un.org/common/flags/fsm_flag.png
+128,Moldova,Europe and Central Asia,https://data.un.org/common/flags/mda_flag.png
+129,Monaco,Europe and Central Asia,https://data.un.org/common/flags/mco_flag.png
+130,Mongolia,East Asia and Pacific,https://data.un.org/common/flags/mng_flag.png
+131,Montenegro,Europe and Central Asia,https://data.un.org/common/flags/mne_flag.png
+132,Morocco,Middle East and North Africa,https://data.un.org/common/flags/mar_flag.png
+133,Mozambique,Sub-Saharan Africa,https://data.un.org/common/flags/moz_flag.png
+134,Myanmar,East Asia and Pacific,https://data.un.org/common/flags/mmr_flag.png
+135,Namibia,Sub-Saharan Africa,https://data.un.org/common/flags/nam_flag.png
+136,Nauru,East Asia and Pacific,https://data.un.org/common/flags/nru_flag.png
+137,Nepal,South Asia,https://data.un.org/common/flags/npl_flag.png
+138,Netherlands,Europe and Central Asia,https://data.un.org/common/flags/nld_flag.png
+139,New Caledonia,East Asia and Pacific,https://data.un.org/common/flags/ncl_flag.png
+140,New Zealand,East Asia and Pacific,https://data.un.org/common/flags/nzl_flag.png
+141,Nicaragua,Latin America and Caribbean,https://data.un.org/common/flags/nic_flag.png
+142,Niger,Sub-Saharan Africa,https://data.un.org/common/flags/ner_flag.png
+143,Nigeria,Sub-Saharan Africa,https://data.un.org/common/flags/nga_flag.png
+144,North Macedonia,Europe and Central Asia,https://data.un.org/common/flags/mkd_flag.png
+145,Northern Mariana Islands,East Asia and Pacific,https://data.un.org/common/flags/mnp_flag.png
+146,Norway,Europe and Central Asia,https://data.un.org/common/flags/nor_flag.png
+147,Oman,Middle East and North Africa,https://data.un.org/common/flags/omn_flag.png
+148,Pakistan,South Asia,https://data.un.org/common/flags/pak_flag.png
+149,Palau,East Asia and Pacific,https://data.un.org/common/flags/plw_flag.png
+150,Panama,Latin America and Caribbean,https://data.un.org/common/flags/pan_flag.png
+151,Papua New Guinea,East Asia and Pacific,https://data.un.org/common/flags/png_flag.png
+152,Paraguay,Latin America and Caribbean,https://data.un.org/common/flags/pry_flag.png
+153,Peru,Latin America and Caribbean,https://data.un.org/common/flags/per_flag.png
+154,Philippines,East Asia and Pacific,https://data.un.org/common/flags/phl_flag.png
+155,Poland,Europe and Central Asia,https://data.un.org/common/flags/pol_flag.png
+156,Portugal,Europe and Central Asia,https://data.un.org/common/flags/prt_flag.png
+157,Puerto Rico,Latin America and Caribbean,https://data.un.org/common/flags/pri_flag.png
+158,Qatar,Middle East and North Africa,https://data.un.org/common/flags/qat_flag.png
+159,Romania,Europe and Central Asia,https://data.un.org/common/flags/rou_flag.png
+160,Russian Federation,Europe and Central Asia,https://data.un.org/common/flags/rus_flag.png
+161,Rwanda,Sub-Saharan Africa,https://data.un.org/common/flags/rwa_flag.png
+162,Samoa,East Asia and Pacific,https://data.un.org/common/flags/wsm_flag.png
+163,San Marino,Europe and Central Asia,https://data.un.org/common/flags/smr_flag.png
+164,Sao Tome and Principe,Sub-Saharan Africa,https://data.un.org/common/flags/stp_flag.png
+165,Saudi Arabia,Middle East and North Africa,https://data.un.org/common/flags/sau_flag.png
+166,Senegal,Sub-Saharan Africa,https://data.un.org/common/flags/sen_flag.png
+167,Serbia,Europe and Central Asia,https://data.un.org/common/flags/srb_flag.png
+168,Seychelles,Sub-Saharan Africa,https://data.un.org/common/flags/syc_flag.png
+169,Sierra Leone,Sub-Saharan Africa,https://data.un.org/common/flags/sle_flag.png
+170,Singapore,East Asia and Pacific,https://data.un.org/common/flags/sgp_flag.png
+171,Sint Maarten,Latin America and Caribbean,https://data.un.org/common/flags/sxm_flag.png
+172,Slovak Republic,Europe and Central Asia,https://data.un.org/common/flags/svk_flag.png
+173,Slovenia,Europe and Central Asia,https://data.un.org/common/flags/svn_flag.png
+174,Solomon Islands,East Asia and Pacific,https://data.un.org/common/flags/slb_flag.png
+175,Somalia,Sub-Saharan Africa,https://data.un.org/common/flags/som_flag.png
+176,South Africa,Sub-Saharan Africa,https://data.un.org/common/flags/zaf_flag.png
+177,South Sudan,Sub-Saharan Africa,https://data.un.org/common/flags/ssd_flag.png
+178,Spain,Europe and Central Asia,https://data.un.org/common/flags/esp_flag.png
+179,Sri Lanka,South Asia,https://data.un.org/common/flags/lka_flag.png
+180,St. Kitts and Nevis,Latin America and Caribbean,https://data.un.org/common/flags/kna_flag.png
+181,St. Lucia,Latin America and Caribbean,https://data.un.org/common/flags/lca_flag.png
+182,St. Martin,Latin America and Caribbean,https://data.un.org/common/flags/maf_flag.png
+183,St. Vincent and the Grenadines,Latin America and Caribbean,https://data.un.org/common/flags/vct_flag.png
+184,Sudan,Sub-Saharan Africa,https://data.un.org/common/flags/sdn_flag.png
+185,Suriname,Latin America and Caribbean,https://data.un.org/common/flags/sur_flag.png
+186,Sweden,Europe and Central Asia,https://data.un.org/common/flags/swe_flag.png
+187,Switzerland,Europe and Central Asia,https://data.un.org/common/flags/che_flag.png
+188,Syrian Arab Republic,Middle East and North Africa,https://data.un.org/common/flags/syr_flag.png
+189,Tajikistan,Europe and Central Asia,https://data.un.org/common/flags/tjk_flag.png
+190,Tanzania,Sub-Saharan Africa,https://data.un.org/common/flags/tza_flag.png
+191,Thailand,East Asia and Pacific,https://data.un.org/common/flags/tha_flag.png
+192,Timor-Leste,East Asia and Pacific,https://data.un.org/common/flags/tls_flag.png
+193,Togo,Sub-Saharan Africa,https://data.un.org/common/flags/tgo_flag.png
+194,Tonga,East Asia and Pacific,https://data.un.org/common/flags/ton_flag.png
+195,Trinidad and Tobago,Latin America and Caribbean,https://data.un.org/common/flags/tto_flag.png
+196,Tunisia,Middle East and North Africa,https://data.un.org/common/flags/tun_flag.png
+197,Turkey,Europe and Central Asia,https://data.un.org/common/flags/tur_flag.png
+198,Turkmenistan,Europe and Central Asia,https://data.un.org/common/flags/tkm_flag.png
+199,Turks and Caicos Islands,Latin America and Caribbean,https://data.un.org/common/flags/tca_flag.png
+200,Tuvalu,East Asia and Pacific,https://data.un.org/common/flags/tuv_flag.png
+201,Uganda,Sub-Saharan Africa,https://data.un.org/common/flags/uga_flag.png
+202,Ukraine,Europe and Central Asia,https://data.un.org/common/flags/ukr_flag.png
+203,United Arab Emirates,Middle East and North Africa,https://data.un.org/common/flags/are_flag.png
+204,United Kingdom,Europe and Central Asia,https://data.un.org/common/flags/gbr_flag.png
+205,United States,North America,https://data.un.org/common/flags/usa_flag.png
+206,Uruguay,Latin America and Caribbean,https://data.un.org/common/flags/ury_flag.png
+207,Uzbekistan,Europe and Central Asia,https://data.un.org/common/flags/uzb_flag.png
+208,Vanuatu,East Asia and Pacific,https://data.un.org/common/flags/vut_flag.png
+209,Venezuela,Latin America and Caribbean,https://data.un.org/common/flags/ven_flag.png
+210,Vietnam,East Asia and Pacific,https://data.un.org/common/flags/vnm_flag.png
+211,Virgin Islands,Latin America and Caribbean,https://data.un.org/common/flags/vir_flag.png
+212,West Bank and Gaza,Middle East and North Africa,https://data.un.org/common/flags/pse_flag.png
+213,Yemen Rep.,Middle East and North Africa,https://data.un.org/common/flags/yem_flag.png
+214,Zambia,Sub-Saharan Africa,https://data.un.org/common/flags/zmb_flag.png
+215,Zimbabwe,Sub-Saharan Africa,https://data.un.org/common/flags/zwe_flag.png
